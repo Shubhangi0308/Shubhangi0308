@@ -2,6 +2,7 @@
 <!--
 **Shubhangi0308/Shubhangi0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img width="1280" alt="Screenshot 2023-05-06 at 11 44 55 PM" src="https://user-images.githubusercontent.com/123619700/236662295-0b6cdd53-3ccc-45e3-9ec1-7426c89d78aa.png">
 
 Here are some ideas to get you started:
 
