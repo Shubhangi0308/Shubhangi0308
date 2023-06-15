@@ -58,11 +58,7 @@
 # CONNECT WITH ME!
 
 <a href="https://www.linkedin.com/in/shubhangi-tandon03">
-<img src="https://github.com/Shubhangi0308/Shubhangi0308/assets/123619700/8e4eb98f-d3fe-465a-bd41-7883700901be" width="80"> &emsp;
+  <img src="https://github.com/Shubhangi0308/Shubhangi0308/assets/123619700/8e4eb98f-d3fe-465a-bd41-7883700901be" width="80"> &emsp;
 </a>
-
-[![linkedin](https://github.com/Shubhangi0308/Shubhangi0308/blob/main/assets/linkedin.png)](https://www.linkedin.com/in/shubhangi-tandon03)
-
-
 
 
