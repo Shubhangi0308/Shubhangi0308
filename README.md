@@ -57,32 +57,12 @@
 
 # CONNECT WITH ME!
 
-<div align="center">
-<a href="https://www.linkedin.com/in/ganavijayaram">
+<a href="https://www.linkedin.com/in/shubhangi-tandon03">
 <img src="https://github.com/Shubhangi0308/Shubhangi0308/assets/123619700/8e4eb98f-d3fe-465a-bd41-7883700901be" width="80"> &emsp;
 </a>
-<a href="https://www.linkedin.com/in/shubhangi-tandon03">
-  <img src="https://github.com/Shubhangi0308/Shubhangi0308/assets/123619700/2700c90f-0f7a-4704-bc98-0b5cc9d42648" width="80"> 
-</a> &emsp;
-<a href="https://www.linkedin.com/in/ganavijayaram">
-<img src="https://github.com/Shubhangi0308/Shubhangi0308/assets/123619700/86d605cf-266c-4b57-ae1d-14443ad28975" width="80"> &emsp;
-</a>
-<a href="https://www.linkedin.com/in/ganavijayaram">
-<img src="https://github.com/Shubhangi0308/Shubhangi0308/assets/123619700/da9ca4bd-86d8-4f24-80c7-5855a61e4189" width="90"> &emsp;
-</a>
+
+[![linkedin](https://github.com/Shubhangi0308/Shubhangi0308/blob/main/assets/linkedin.png)](https://www.linkedin.com/in/shubhangi-tandon03)
 
 
-<br><br>
-</div>
 
-<a href="https://www.linkedin.com/in/ganavijayaram">
-    <img src="https://github.com/Shubhangi0308/Shubhangi0308/assets/123619700/8e4eb98f-d3fe-465a-bd41-7883700901be" width="100"> 
- </a>
- &emsp;
- <a href="mailto:itsganavijayaram@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/>
- </a>
- &emsp;
- <a href="https://www.instagram.com/ganavi_jayaram/?hl=en">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
- </a>
+
