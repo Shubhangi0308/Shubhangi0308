@@ -38,17 +38,29 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 <div align="center">
-<img src="https://github.com/Shubhangi0308/Shubhangi0308/assets/123619700/f2f3ef98-40b4-4b5d-95bf-9d52463a0b4f" width="300">
-<img src="https://github.com/Shubhangi0308/Shubhangi0308/assets/123619700/741abb8b-b74a-416c-83c3-ac7b177761d7" width="400">
+<img src="https://github.com/Shubhangi0308/Shubhangi0308/assets/123619700/f2f3ef98-40b4-4b5d-95bf-9d52463a0b4f" width="500">
+<img src="https://github.com/Shubhangi0308/Shubhangi0308/assets/123619700/741abb8b-b74a-416c-83c3-ac7b177761d7" width="500">
 </div>
 
 ### DATABASE
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 
+
 ### TOOLS
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
+<div align="center">
+<img src="https://github.com/Shubhangi0308/Shubhangi0308/assets/123619700/799e7670-ad39-49ac-a540-1cfc28831870" width="80">
+<img src="https://github.com/Shubhangi0308/Shubhangi0308/assets/123619700/e463b84e-0c8e-4ff3-a398-3433300d5cba" width="100">
+<img src="https://github.com/Shubhangi0308/Shubhangi0308/assets/123619700/0a0a542d-4171-4cdb-aee4-b185b71393c3" width="100">
+<img src="https://github.com/Shubhangi0308/Shubhangi0308/assets/123619700/75fd540a-88ff-4e0a-aa71-b87babceafd2" width="100">
+<img src="https://github.com/Shubhangi0308/Shubhangi0308/assets/123619700/ddc5daa5-afe0-4ead-b041-c66892bedf24" width="100">
+<img src="https://github.com/Shubhangi0308/Shubhangi0308/assets/123619700/0034b8db-189e-41cb-a5f4-834f37f9859d" width="100">
+<img src="https://github.com/Shubhangi0308/Shubhangi0308/assets/123619700/234762d7-ae53-48bb-ad17-65e26012e662" width="100">
+<img src="https://github.com/Shubhangi0308/Shubhangi0308/assets/123619700/3ad93543-2b2c-4dcf-a516-c7ec0e80ef37" width="100">
+
+</div>
 
 ### OPERATING SYSTEMS
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
