@@ -71,9 +71,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 
 <div align="center">
-<a href="https://www.linkedin.com/in/shubhangi-tandon03">
+<!--<a href="https://www.linkedin.com/in/shubhangi-tandon03">
   <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
-</a>
+</a>-->
 
 <a href="https://www.linkedin.com/in/shubhangi-tandon03">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
@@ -83,16 +83,16 @@
   <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
 </a>
 
-<a href="https://www.linkedin.com/in/shubhangi-tandon03">
+<a href="mailto:shubhangi.tandon@proton.me">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/123619700/246393721-48754fbb-37e6-40b0-9115-2bf6553536dc.gif" width="100">
 </a>
 
 
-<a href="https://www.linkedin.com/in/shubhangi-tandon03">
+<!--<a href="https://www.linkedin.com/in/shubhangi-tandon03">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/123619700/246394797-7e81caed-3575-4574-a50a-1ba5eccc3bb7.gif" width="80">
 </a>
 
-<!--<a href="https://www.linkedin.com/in/shubhangi-tandon03">
+<a href="https://www.linkedin.com/in/shubhangi-tandon03">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/123619700/246191799-5f3b51d2-8a28-4e4f-885a-0e3811092554.png" width="80">
 </a>-->
 
