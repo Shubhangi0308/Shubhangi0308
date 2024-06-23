@@ -79,9 +79,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
 </a>
 
-<a href="https://www.linkedin.com/in/shubhangi-tandon03">
+<!--<a href="https://discord.com/channels/@shubhangi8583">
   <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
-</a>
+</a>-->
 
 <a href="mailto:shubhangi.tandon@proton.me">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/123619700/246393721-48754fbb-37e6-40b0-9115-2bf6553536dc.gif" width="100">
