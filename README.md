@@ -87,6 +87,10 @@
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/123619700/246393721-48754fbb-37e6-40b0-9115-2bf6553536dc.gif" width="100">
 </a>
 
+<a href="mailto:shubhangi.tandon@proton.me">
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100">
+</a>
+
 
 <!--<a href="https://www.linkedin.com/in/shubhangi-tandon03">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/123619700/246394797-7e81caed-3575-4574-a50a-1ba5eccc3bb7.gif" width="80">
