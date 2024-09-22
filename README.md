@@ -83,9 +83,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
 </a>-->
 
-<a href="mailto:shubhangi.tandon@proton.me">
+<!--<a href="mailto:shubhangi.tandon@proton.me">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/123619700/246393721-48754fbb-37e6-40b0-9115-2bf6553536dc.gif" width="100">
-</a>
+</a>-->
 
 <a href="mailto:shubhangi.tandon@proton.me">
   <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100">
